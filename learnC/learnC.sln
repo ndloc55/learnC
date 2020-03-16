@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
-VisualStudioVersion = 16.0.29806.167
+VisualStudioVersion = 16.0.29905.134
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "bai2", "learnC\learnC.vcxproj", "{2E124756-BA34-417D-979C-6FA558DD9D20}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "baitap", "learnC.vcxproj", "{2E124756-BA34-417D-979C-6FA558DD9D20}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -26,6 +26,6 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {E118CA40-F273-45BA-A3C1-72E65058CFF6}
+		SolutionGuid = {2819854F-0D57-4358-BE94-E5D05CDB889F}
 	EndGlobalSection
 EndGlobal
