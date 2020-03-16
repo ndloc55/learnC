@@ -108,5 +108,11 @@
     <ClCompile Include="bai3_5.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="bai3_6.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="bai3_7.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

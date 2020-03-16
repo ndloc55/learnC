@@ -168,6 +168,8 @@
     <ClCompile Include="bai3_2.c" />
     <ClCompile Include="bai3_3.c" />
     <ClCompile Include="bai3_5.c" />
+    <ClCompile Include="bai3_6.c" />
+    <ClCompile Include="bai3_7.c" />
     <ClCompile Include="switchcase1.c" />
     <ClCompile Include="test dowhile vs while.c" />
   </ItemGroup>
