@@ -24,9 +24,6 @@
     <ClCompile Include="bai2_1.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="bai1_2.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="bai1_3.c">
       <Filter>Source Files</Filter>
     </ClCompile>
@@ -112,6 +109,9 @@
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="bai3_7.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Positive, nagetive, Even,Odd numbers.c">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
